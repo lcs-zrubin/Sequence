@@ -35,7 +35,7 @@ canvas.drawEllipse(centreX: 240, centreY: 375, width: 75, height: 75)
 canvas.fillColor = Color.white
 canvas.drawShapesWithBorders = false
 
-//Head
+//Draw the Head
 canvas.drawEllipse(centreX: 150, centreY: 300, width: 250, height: 200)
 canvas.fillColor = Color.black
 
